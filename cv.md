@@ -1,5 +1,6 @@
 # 1. Galanovn Nikolay
 #### WEB-developer
+![my photo](/myphoto1.jpg)
 ## 2.  Contacts:
 1. Telephone: +7-921-761-67-02
 2. E-mail: galanovn@gmail.com
